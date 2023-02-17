@@ -1,4 +1,6 @@
 # Pandamonium Theorem Prover
+## 2023 Note: This project was for a final project for a CS course in college. The repo is now archived and locked.
+
 This project contains several different modules for different parts of the system.
 
 * [persistence](persistence/README.md)
